@@ -1,0 +1,14 @@
+.product {
+  display: grid;
+  gap: 12px;
+  max-width: 480px;
+}
+
+.product img {
+  max-width: 100%;
+}
+
+.product-price {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
